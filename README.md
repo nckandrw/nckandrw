@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Nick.
 
-<!--
-**nckandrw/nckandrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I leverage a strong background in **operational excellence** and **strategic insight** to approach cybersecurity challenges. My expertise lies in seamless integration of data-driven analysis with meticulous process improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am driven by a commitment to enhancing efficiency and fostering informed decision-making. In the context of security, I focus on:
+* **Navigating complex challenges** within diverse organizational landscapes.
+* **Coordinating cross-functional teams** to ensure security best practices.
+* **Translating intricate technical information** into clear, actionable outcomes for stakeholders.
+
+---
+
+### 💻 Tech Stack & Tools
+
+* **Languages:** Python, SQL, Bash
+* **Networking:** Wireshark, Nmap, Cisco Packet Tracer
+* **Security Tools:**
+* **OS:** Linux (Kali/Debian), Windows

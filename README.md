@@ -19,6 +19,10 @@ I am driven by a commitment to enhancing efficiency and fostering informed decis
 * Gained hands-on experience with industry-standard tools including Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS).
 * Developed an understanding of the NIST Cybersecurity Framework and its application in risk management.
 
+**[Security Principles for DevSecOps Course](https://www.codecademy.com/profiles/nckandrw/certificates/1b22efd4bd6147deb24bfb4004d3fdd5)**
+*Issued by CodeCademy*
+*Completed [Dec 2025]*
+
 ---
 
 ### 💻 Tech Stack & Tools

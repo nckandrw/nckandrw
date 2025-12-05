@@ -22,7 +22,12 @@ I am driven by a commitment to enhancing efficiency and fostering informed decis
 **[Security Principles for DevSecOps Course](https://www.codecademy.com/profiles/nckandrw/certificates/1b22efd4bd6147deb24bfb4004d3fdd5)**
 *Issued by CodeCademy*
 *Completed [Dec 2025]*
-
+* **Key Learning Outcomes:**
+    * Deep dive into **DevSecOps** principles, differentiating between DevOps, InfoSec, and Cybersecurity roles.
+    * Mastered foundational security tenets: **Confidentiality, Integrity, and Availability (CIA Triad)**.
+    * Explored security across different domains: **Application, Cloud, and Infrastructure** security models.
+    * Analyzed common risks (Advanced Persistent Threats, **Ransomware**, Insider Threats) and defensive technologies (**DLP, IPS, EDR**).
+  
 ---
 
 ### 💻 Tech Stack & Tools
